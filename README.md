@@ -1,7 +1,10 @@
 AutoTask是一款免费的自动化任务设计软件。它支持【来喜投屏】和【极限投屏】，能让我们彻底告别 autojs编程 。简单配置就能实现复杂流程自动化运行。
 详情点击链接
-https://www.wzhiban.com/autotask/index.html
-https://www.wzhiban.com/autotaskjx/index.html
+
+来喜投屏 https://www.wzhiban.com/autotask/index.html
+
+
+极限投屏https://www.wzhiban.com/autotaskjx/index.html
 
 
 常用功能任务分为三大类
